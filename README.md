@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.dropbox.com/scl/fi/zfzbyyl9e1b1k5efotogw/man-developing-website-on-desk.png?rlkey=8kokmd9xtysldind7htb1rnk5&dl=0" align="center" style="width: 100%" />
+<img src="![Welcome-Image](https://github.com/MichealMoris/MichealMoris/assets/138615256/b2a12381-978c-4e13-900e-445a22cc58ad)" align="center" style="width: 100%" />
 </div>  
   
 
