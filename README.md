@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1mwnB-PtCUDRLMT77WBbpGzYmupPUIZp6/view?usp=share_link" align="center" style="width: 100%" />
+<img src="https://www.dropbox.com/scl/fi/zfzbyyl9e1b1k5efotogw/man-developing-website-on-desk.png?rlkey=8kokmd9xtysldind7htb1rnk5&dl=0" align="center" style="width: 100%" />
 </div>  
   
 
