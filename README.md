@@ -1,5 +1,5 @@
 <div align="center">
-<img src="![Welcome-Image](https://github.com/MichealMoris/MichealMoris/assets/138615256/b2a12381-978c-4e13-900e-445a22cc58ad)" align="center" style="width: 100%" />
+<img src="https://github.com/MichealMoris/MichealMoris/assets/138615256/b2a12381-978c-4e13-900e-445a22cc58ad" align="center" style="width: 100%" />
 </div>  
   
 
